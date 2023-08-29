@@ -45,7 +45,7 @@ The notebook is divided into several sections:
 
     Conclusion: Summarizing the analysis and discussing potential next steps.
 
-icense
+License
 
 This project is licensed under the MIT License. Feel free to modify and use the provided code for your learning and projects.
 Questions and Feedback
